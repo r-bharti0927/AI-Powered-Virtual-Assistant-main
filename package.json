@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "recognition": "^0.0.1",
+    "speech": "^0.2.1"
+  }
+}
